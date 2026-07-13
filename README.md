@@ -55,7 +55,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=singhujjwalpratap&show_icons=true&theme=radical)
+![GitHub stats](![GitHub stats](https://github-readme-stats.vercel.app/api?username=singhujjwalpratap&show_icons=true&theme=radical))
 
 
 <!--
