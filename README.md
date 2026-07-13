@@ -10,17 +10,17 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
 
-](https://www.linkedin.com/in/ujjwal-pratap-singh-a6974a37b)
-[
+(https://www.linkedin.com/in/ujjwal-pratap-singh-a6974a37b)
+
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)
 
-](https://leetcode.com/u/singhujjwalpratap/)
-[
+(https://leetcode.com/u/singhujjwalpratap/)
+
 
 ![X](https://img.shields.io/badge/X-black?style=flat&logo=x)
 
-](https://x.com/UjjwalSingh331)
+(https://x.com/UjjwalSingh331)
 
 #### Tech Stack
 
