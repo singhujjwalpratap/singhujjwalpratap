@@ -6,7 +6,7 @@
 - 📫 Reach me at ujjwalpratapsingh78@gmail.com
 
 #### Connect with me
-[
+
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
 
